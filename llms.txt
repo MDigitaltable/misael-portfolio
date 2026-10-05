@@ -1,0 +1,29 @@
+# Misael Olivares — Digital Marketing Portfolio
+
+> Vancouver-based digital marketer and former professional cook (8+ years in kitchens). Focus: restaurant, food and hospitality marketing. Studying the Diploma in Digital Marketing Professional at Greystone College.
+
+## Main pages
+- [Home / Portfolio](https://misael-portfolio-plum.vercel.app/): About, skills, case studies, certifications, contact
+- [Blog](https://misael-portfolio-plum.vercel.app/blog): Restaurant marketing articles
+
+## Case studies
+- [Kaizen Cantina: Mexican–Japanese Restaurant Brand Concept](https://misael-portfolio-plum.vercel.app/work/kaizen-cantina-restaurant-brand-concept): Create a distinctive restaurant concept for premium urban diners.
+- [El Molino: Modern Mexican Tortillería Brand and Launch Campaign](https://misael-portfolio-plum.vercel.app/work/el-molino-tortilleria-launch-campaign): Build awareness and generate pre-launch interest for a new restaurant concept.
+- [MeltnBite: Social Media and Paid Campaign for a Vancouver Brownie Brand](https://misael-portfolio-plum.vercel.app/work/meltnbite-social-paid-campaign): Increase awareness and engagement for a new dessert brand in a competitive local market.
+- [MeltnBite Instagram Campaign: 10-Day Social Media Growth Campaign](https://misael-portfolio-plum.vercel.app/work/meltnbite-instagram-growth-campaign): Grow an emerging dessert brand’s Instagram presence within a short, measurable window.
+- [Party Tray Paradise: Vancouver Party Tray Marketplace](https://misael-portfolio-plum.vercel.app/work/party-tray-paradise-analytics-dashboard): Connect customers with affordable, multicultural party trays from local Vancouver restaurants.
+- [Vancouver Nature Guide: Guided Nature & Trail Experiences](https://misael-portfolio-plum.vercel.app/work/vancouver-nature-guide-seo-dashboard): Help visitors discover Vancouver’s wildlife, forests and outdoor attractions with an experienced guide.
+
+## Articles
+- [How to Market a Restaurant Before It Opens: A Pre-Launch Playbook](https://misael-portfolio-plum.vercel.app/blog/new-restaurant-marketing-vancouver): Pre-opening timeline, waitlists, Google Business Profile, behind-the-scenes content, soft openings, grand opening ideas, early reviews
+- [7 Restaurant Marketing Tips from a Professional Cook Turned Marketer](https://misael-portfolio-plum.vercel.app/blog/restaurant-marketing-tips-vancouver): Google Business Profile, reviews, slow-night promotions, kitchen capacity, prep-time video content, menu descriptions, Vancouver seasonal planning
+
+## Certifications
+- Google Ads Search, Display and Measurement (2026)
+- Google Analytics (2026)
+- HubSpot Digital Advertising and Social Media (2026)
+- Stukent Digital Marketing Simternship (2026)
+
+## Contact
+- Email: mizaac0912@gmail.com
+- Location: Vancouver, BC, Canada

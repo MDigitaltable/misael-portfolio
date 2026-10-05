@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/blog",
+      "destination": "/blog/index.dc.html"
+    },
+    {
+      "source": "/blog/:slug",
+      "destination": "/blog/:slug.dc.html"
+    },
+    {
+      "source": "/work/:slug",
+      "destination": "/work/:slug.dc.html"
+    }
+  ]
+}
