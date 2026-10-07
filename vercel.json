@@ -1,6 +1,14 @@
 {
   "rewrites": [
     {
+      "source": "/about",
+      "destination": "/about/index.dc.html"
+    },
+    {
+      "source": "/work",
+      "destination": "/work/index.dc.html"
+    },
+    {
       "source": "/blog",
       "destination": "/blog/index.dc.html"
     },

@@ -4,6 +4,8 @@
 
 ## Main pages
 - [Home / Portfolio](https://misael-portfolio-plum.vercel.app/): About, skills, case studies, certifications, contact
+- [About](https://misael-portfolio-plum.vercel.app/about): Hospitality digital marketer in Vancouver, former professional cook
+- [Work](https://misael-portfolio-plum.vercel.app/work): Restaurant marketing case studies
 - [Blog](https://misael-portfolio-plum.vercel.app/blog): Restaurant marketing articles
 
 ## Case studies
