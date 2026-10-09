@@ -1,2 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /uploads/
+Disallow: /archive/
+
+Sitemap: https://misael-portfolio-plum.vercel.app/sitemap.xml

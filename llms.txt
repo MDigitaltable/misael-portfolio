@@ -1,11 +1,11 @@
 # Misael Olivares — Digital Marketing Portfolio
 
-> Vancouver-based digital marketer and former professional cook (8+ years in kitchens). Focus: restaurant, food and hospitality marketing. Studying the Diploma in Digital Marketing Professional at Greystone College.
+> Aspiring digital marketer in Vancouver, Canada, and former professional cook with 8+ years in hospitality. Studying the Diploma in Digital Marketing Professional at Greystone College. Focus: SEO, Google Ads, social media marketing, content marketing and marketing analytics, especially for restaurants and local businesses.
 
 ## Main pages
-- [Home / Portfolio](https://misael-portfolio-plum.vercel.app/): About, skills, case studies, certifications, contact
-- [About](https://misael-portfolio-plum.vercel.app/about): Hospitality digital marketer in Vancouver, former professional cook
-- [Work](https://misael-portfolio-plum.vercel.app/work): Restaurant marketing case studies
+- [Home](https://misael-portfolio-plum.vercel.app/): Digital marketing portfolio overview, skills, featured projects, certifications and contact
+- [About](https://misael-portfolio-plum.vercel.app/about): From hospitality to digital marketing, education, skills, approach and goals
+- [Projects](https://misael-portfolio-plum.vercel.app/work): Digital marketing projects and case studies
 - [Blog](https://misael-portfolio-plum.vercel.app/blog): Restaurant marketing articles
 
 ## Case studies
@@ -13,8 +13,8 @@
 - [El Molino: Modern Mexican Tortillería Brand and Launch Campaign](https://misael-portfolio-plum.vercel.app/work/el-molino-tortilleria-launch-campaign): Build awareness and generate pre-launch interest for a new restaurant concept.
 - [MeltnBite: Social Media and Paid Campaign for a Vancouver Brownie Brand](https://misael-portfolio-plum.vercel.app/work/meltnbite-social-paid-campaign): Increase awareness and engagement for a new dessert brand in a competitive local market.
 - [MeltnBite Instagram Campaign: 10-Day Social Media Growth Campaign](https://misael-portfolio-plum.vercel.app/work/meltnbite-instagram-growth-campaign): Grow an emerging dessert brand’s Instagram presence within a short, measurable window.
-- [Party Tray Paradise: Vancouver Party Tray Marketplace](https://misael-portfolio-plum.vercel.app/work/party-tray-paradise-analytics-dashboard): Connect customers with affordable, multicultural party trays from local Vancouver restaurants.
-- [Vancouver Nature Guide: Guided Nature & Trail Experiences](https://misael-portfolio-plum.vercel.app/work/vancouver-nature-guide-seo-dashboard): Help visitors discover Vancouver’s wildlife, forests and outdoor attractions with an experienced guide.
+- [Party Tray Paradise: Website Performance Dashboard for a Vancouver Party Tray Marketplace](https://misael-portfolio-plum.vercel.app/work/party-tray-paradise-analytics-dashboard): Understand how Party Tray Paradise’s website performs and where it can improve traffic, conversions and local reach.
+- [Vancouver Nature Guide: Google Search Console SEO Dashboard for a Vancouver Eco-Tourism Website](https://misael-portfolio-plum.vercel.app/work/vancouver-nature-guide-seo-dashboard): Measure Vancouver Nature Guide’s organic search performance and find opportunities to grow organic traffic.
 
 ## Articles
 - [How to Market a Restaurant Before It Opens: A Pre-Launch Playbook](https://misael-portfolio-plum.vercel.app/blog/new-restaurant-marketing-vancouver): Pre-opening timeline, waitlists, Google Business Profile, behind-the-scenes content, soft openings, grand opening ideas, early reviews

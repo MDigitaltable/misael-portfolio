@@ -1,9 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.misaelolivares.com/</loc>
-    <lastmod>2026-07-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
+    <loc>https://misael-portfolio-plum.vercel.app/</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://misael-portfolio-plum.vercel.app/about</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://misael-portfolio-plum.vercel.app/work</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://misael-portfolio-plum.vercel.app/work/kaizen-cantina-restaurant-brand-concept</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://misael-portfolio-plum.vercel.app/work/el-molino-tortilleria-launch-campaign</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://misael-portfolio-plum.vercel.app/work/meltnbite-social-paid-campaign</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://misael-portfolio-plum.vercel.app/work/meltnbite-instagram-growth-campaign</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://misael-portfolio-plum.vercel.app/work/party-tray-paradise-analytics-dashboard</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://misael-portfolio-plum.vercel.app/work/vancouver-nature-guide-seo-dashboard</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://misael-portfolio-plum.vercel.app/blog</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://misael-portfolio-plum.vercel.app/blog/restaurant-marketing-tips-vancouver</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://misael-portfolio-plum.vercel.app/blog/new-restaurant-marketing-vancouver</loc>
+    <lastmod>2026-10-08</lastmod>
   </url>
 </urlset>

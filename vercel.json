@@ -1,6 +1,10 @@
 {
   "rewrites": [
     {
+      "source": "/",
+      "destination": "/Portfolio.dc.html"
+    },
+    {
       "source": "/about",
       "destination": "/about/index.dc.html"
     },
